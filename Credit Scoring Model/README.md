@@ -9,8 +9,8 @@ Predicts an individual's **creditworthiness** (loan repayment likelihood) using 
 |------|--------|
 | Internship | CodeAlpha — Machine Learning |
 | Task | Task 1: Credit Scoring Model |
-| Author | Shashank Singh |
-| GitHub | [@Shashank17singh](https://github.com/Shashank17singh) |
+| Author | Aryan Singh |
+| GitHub | [@aryan11singh](https://github.com/aryan11singh)|
 
 ---
 
