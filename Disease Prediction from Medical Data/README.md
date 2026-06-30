@@ -9,8 +9,8 @@ Predicts the likelihood of diseases using patient medical data and classical ML 
 |------|--------|
 | Internship | CodeAlpha — Machine Learning |
 | Task | Task 4: Disease Prediction from Medical Data |
-| Author | Shashank Singh |
-| GitHub | [@Shashank17singh](https://github.com/Shashank17singh) |
+| Author | Aryan  Singh |
+| GitHub | [@aryan11singh](https://github.com/aryan11singh) |
 
 ---
 
